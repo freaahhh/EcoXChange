@@ -1,3 +1,5 @@
+#PLAGIARISM IS STRICTLY PROHIBITED#
+
 # EcoXChange
 Wasted collection and recycling system 
 
